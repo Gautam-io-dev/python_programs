@@ -6,7 +6,7 @@
 
 ![image alt](https://github.com/Gautam-io-dev/python_programs/blob/8246a791ffd04ccd114056b66968064ff238db0a/PROGRAM%206.png)
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/754fc88a21a956be7c241ab0526ac37952013c21/PROGRAM1.png)
 
 ![image alt](
 
