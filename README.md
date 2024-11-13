@@ -10,8 +10,12 @@
 
 ![image alt](https://github.com/Gautam-io-dev/python_programs/blob/102532c0f1e30e851c8cae1e617bb76c61c149ca/PROGRAM3%202.png)
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/ea4c750e8bdf898056d0b2d8ec8ca0ca18a2b90f/PROGRAM3.png)
 
 ![image alt](
 
 ![image alt](
+
+![image alt](
+
+
