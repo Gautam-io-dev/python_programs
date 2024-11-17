@@ -40,5 +40,13 @@ b. if the character is a letter, print whether the letter is uppercase or lowerc
 
 c. if the character is a numeric digit, prints its name in text
 
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/6ab3cc7313d3ca206d6d080c4f9ddb20497dcdf6/program%204.jpg)
+
+# 5.Program
+
+*WAP to perform the following operations on a string.**
+
+1.find the frequecy of a character in a string.
+
 ![image alt](
 
