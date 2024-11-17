@@ -60,7 +60,7 @@ c. if the character is a numeric digit, prints its name in text
 
 4.Remove the all occurance of a character from a string.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/f671c67e48dfde1881c9d40e8f7c89c34aec9435/PROGRAM%204.png)
 
 
 
