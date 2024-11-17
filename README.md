@@ -54,3 +54,13 @@ c. if the character is a numeric digit, prints its name in text
 
 ![image alt](
 
+3.Remove the first occurance of a character in a string.
+
+![image alt](
+
+4.Remove the all occurance of a character from a string.
+
+![image alt](
+
+
+
