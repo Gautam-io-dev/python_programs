@@ -52,7 +52,7 @@ c. if the character is a numeric digit, prints its name in text
 
 2.Replace a character  by another character in a string.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/de04e001e7310dd31ac82ce54b6c2e83ae664781/5.2.jpg)
 
 3.Remove the first occurance of a character in a string.
 
