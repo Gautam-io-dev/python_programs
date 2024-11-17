@@ -62,5 +62,11 @@ c. if the character is a numeric digit, prints its name in text
 
 ![image alt](https://github.com/Gautam-io-dev/python_programs/blob/f671c67e48dfde1881c9d40e8f7c89c34aec9435/PROGRAM%204.png)
 
+# 6.Progarm
+
+**WAP to swap the first n characters of two strings.**
+
+![image alt](
+
 
 
