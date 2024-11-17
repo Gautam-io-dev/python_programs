@@ -72,7 +72,15 @@ c. if the character is a numeric digit, prints its name in text
 
 **write a function that accepts two string and returns the indices of all the occurences of the second string in the first string as a list.If the second string is not present in present in first string then it should return -1.**
 
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/fc4af0ef828c04de02e9013010007d25e1c0f16b/PROGRAM3%202.png)
+
+# 8.Progaram
+
+**WAP to create a list of only the even integers appearing in the input list(may have elements of other types) using for loop and list comprehension.**
+
 ![image alt](
+
+
 
 
 
