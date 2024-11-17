@@ -56,7 +56,7 @@ c. if the character is a numeric digit, prints its name in text
 
 3.Remove the first occurance of a character in a string.
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/3e6668f45dc0ab7b5782e10533bda98507ed2357/PROGRAM5.png)
 
 4.Remove the all occurance of a character from a string.
 
