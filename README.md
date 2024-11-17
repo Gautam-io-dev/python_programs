@@ -78,7 +78,7 @@ c. if the character is a numeric digit, prints its name in text
 
 **WAP to create a list of only the even integers appearing in the input list(may have elements of other types) using for loop and list comprehension.**
 
-![image alt](
+![image alt](https://github.com/Gautam-io-dev/python_programs/blob/f2856764d0c53939b526d6984a7e642060c262c9/PROGRAM1.png)
 
 
 
